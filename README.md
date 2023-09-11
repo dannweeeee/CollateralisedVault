@@ -27,7 +27,7 @@ Problem Statement: https://github.com/yieldprotocol/mentorship2022/issues/5
 ![Alt text](image.png)
 
 ## Tokens
-Collateral: WETH
+Collateral: WETH <br>
 Underlying: DAI
 
 ## Contracts
@@ -55,4 +55,4 @@ Underlying: DAI
     - If ETH/DAI price changes such tt **debt_value** *>* **collateral_value**, 
     Vault will erase user records from the contract -> cancelling the user debt, and at the same time stopping that user from withdrawing their collateral.
 
-(https://1733885843-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FTgomzlmn9NrxUY0OQ3cD%2Fuploads%2FfMw1V1lKmxE7suN2JUGs%2FUntitled-2022-05-08-1843.excalidraw.png?alt=media&token=13abcd1e-710c-44c2-ad9d-f804b55bd501)
+![Alt text](image-2.png)

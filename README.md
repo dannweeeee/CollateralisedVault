@@ -3,10 +3,10 @@ Project #5 for Arcane x CertiK Developer Workshop: https://calnix.gitbook.io/eth
 Problem Statement: https://github.com/yieldprotocol/mentorship2022/issues/5
 
 ## Objectives
-* Contract allows users to deposit an asset they own (collateral), to borrow a different asset that the Vault owns (underlying). 
-* Exchange rate determined by oracle.
-* If value of collateral drops in underlying terms, the user will be liquidated.
-* User can deposit WETH as collateral, and borrow DAI against it.
+1. Contract allows users to deposit an asset they own (collateral), to borrow a different asset that the Vault owns (underlying). 
+2. Exchange rate determined by oracle.
+3. If value of collateral drops in underlying terms, the user will be liquidated.
+4. User can deposit WETH as collateral, and borrow DAI against it.
 
 ## Sequence
 1. Users deposit WETH into Vault
